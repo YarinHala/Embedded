@@ -1,0 +1,36 @@
+Warning[2054] C:\Users\Yarin\Downloads\Embedded\Shenkar\Ex1\main.c 366 : suspicious pointer conversion
+Warning[2054] C:\Users\Yarin\Downloads\Embedded\Shenkar\Ex1\main.c 367 : suspicious pointer conversion
+Warning[2054] C:\Users\Yarin\Downloads\Embedded\Shenkar\Ex1\main.c 368 : suspicious pointer conversion
+Warning[2054] C:\Users\Yarin\Downloads\Embedded\Shenkar\Ex1\main.c 369 : suspicious pointer conversion
+Warning[2054] C:\Users\Yarin\Downloads\Embedded\Shenkar\Ex1\main.c 370 : suspicious pointer conversion
+Warning[2054] C:\Users\Yarin\Downloads\Embedded\Shenkar\Ex1\main.c 371 : suspicious pointer conversion
+Warning[2054] C:\Users\Yarin\Downloads\Embedded\Shenkar\Ex1\main.c 372 : suspicious pointer conversion
+Warning[2054] C:\Users\Yarin\Downloads\Embedded\Shenkar\Ex1\main.c 374 : suspicious pointer conversion
+Warning[2054] C:\Users\Yarin\Downloads\Embedded\Shenkar\Ex1\main.c 375 : suspicious pointer conversion
+Warning[2054] C:\Users\Yarin\Downloads\Embedded\Shenkar\Ex1\main.c 376 : suspicious pointer conversion
+Warning[2054] C:\Users\Yarin\Downloads\Embedded\Shenkar\Ex1\main.c 377 : suspicious pointer conversion
+Warning[2054] C:\Users\Yarin\Downloads\Embedded\Shenkar\Ex1\main.c 379 : suspicious pointer conversion
+Warning[2054] C:\Users\Yarin\Downloads\Embedded\Shenkar\Ex1\main.c 382 : suspicious pointer conversion
+Warning[2054] C:\Users\Yarin\Downloads\Embedded\Shenkar\Ex1\main.c 383 : suspicious pointer conversion
+Warning[2054] C:\Users\Yarin\Downloads\Embedded\Shenkar\Ex1\main.c 384 : suspicious pointer conversion
+Warning[2054] C:\Users\Yarin\Downloads\Embedded\Shenkar\Ex1\main.c 385 : suspicious pointer conversion
+Warning[2054] C:\Users\Yarin\Downloads\Embedded\Shenkar\Ex1\main.c 386 : suspicious pointer conversion
+Warning[2054] C:\Users\Yarin\Downloads\Embedded\Shenkar\Ex1\main.c 387 : suspicious pointer conversion
+Warning[2054] C:\Users\Yarin\Downloads\Embedded\Shenkar\Ex1\main.c 388 : suspicious pointer conversion
+Warning[2058] C:\Users\Yarin\Downloads\Embedded\Shenkar\Ex1\main.c 518 : call of function without prototype
+Warning[2066] C:\Users\Yarin\Downloads\Embedded\Shenkar\Ex1\main.c 526 : type qualifier mismatch in assignment
+Warning[2054] C:\Users\Yarin\Downloads\Embedded\Shenkar\Ex1\main.c 527 : suspicious pointer conversion
+Warning[2066] C:\Users\Yarin\Downloads\Embedded\Shenkar\Ex1\main.c 535 : type qualifier mismatch in assignment
+Warning[2054] C:\Users\Yarin\Downloads\Embedded\Shenkar\Ex1\main.c 536 : suspicious pointer conversion
+Warning[2054] C:\Users\Yarin\Downloads\Embedded\Shenkar\Ex1\main.c 546 : suspicious pointer conversion
+Warning[2054] C:\Users\Yarin\Downloads\Embedded\Shenkar\Ex1\main.c 547 : suspicious pointer conversion
+Warning[2054] C:\Users\Yarin\Downloads\Embedded\Shenkar\Ex1\main.c 557 : suspicious pointer conversion
+Warning[2054] C:\Users\Yarin\Downloads\Embedded\Shenkar\Ex1\main.c 558 : suspicious pointer conversion
+Warning[2054] C:\Users\Yarin\Downloads\Embedded\Shenkar\Ex1\main.c 571 : suspicious pointer conversion
+Warning[2054] C:\Users\Yarin\Downloads\Embedded\Shenkar\Ex1\main.c 572 : suspicious pointer conversion
+Warning[2065] C:\Users\Yarin\Downloads\Embedded\Shenkar\Ex1\main.c 635 : static function 'YourLowPriorityISRCode' never referenced
+Warning[2065] C:\Users\Yarin\Downloads\Embedded\Shenkar\Ex1\main.c 635 : static function 'YourHighPriorityISRCode' never referenced
+Warning[2065] C:\Users\Yarin\Downloads\Embedded\Shenkar\Ex1\main.c 635 : static function 'YourLowPriorityISRCode' never referenced
+Warning[2065] C:\Users\Yarin\Downloads\Embedded\Shenkar\Ex1\main.c 635 : static function 'YourHighPriorityISRCode' never referenced
+Warning[2064] C:\Users\Yarin\Downloads\Embedded\Shenkar\Ex1\main.c 635 : static function 'ProcessIO' not defined
+Warning[2064] C:\Users\Yarin\Downloads\Embedded\Shenkar\Ex1\main.c 635 : static function 'DelayMs' not defined
